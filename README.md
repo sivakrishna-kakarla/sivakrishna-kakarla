@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivakrishna-kakarla
 - 👀 I’m interested in Data Analysis and Machine Learning
-- 🌱 I’m currently learning required skills like R, Pythpn, SQL, Tableau, Excel and more
+- 🌱 I’m currently learning required skills like R, Python, SQL, Tableau, Excel, Power BI  and more
 - 💞️ I’m looking to collaborate on discussions, practice projects..
 - 📫 How to reach me @kakarlasivakrishnacse@gmail.com
 
