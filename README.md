@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivakrishna-kakarla
-- 👀 I’m love to Design, developing and maintaing Databases.
-- 🌱 I’m currently working as SQL Developer.
+- 👀 I’ve started my career as a SQL Developer, switched to data analysis.
+- 🌱 I’m currently working as Power BI Developer.
 - 💞️ I’m looking to collaborate on discussions, practice projects..
 - 📫 How to reach me @kakarlasivakrishnacse@gmail.com
 
